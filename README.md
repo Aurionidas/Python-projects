@@ -23,6 +23,7 @@ organization.
 On windows terminal:
 
 cd YOUR_PYTHON_DIRECTOY
+
 pip install LIBRARY_NAME
 
 Libraries

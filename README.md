@@ -17,7 +17,13 @@ In the process of creating this repository I will explore such things like APIs,
 ## Requirements
 
 This Repository works with Jupyter notebooks for their facility to show notes and Python code. Apart from that we'll need some additional libraries
-in order to run all the notebooks here found. 
+in order to run all the notebooks here found. Feel free to install them from your console in the directory you have your python installed for more
+organization.
+
+On windows terminal:
+
+cd YOUR_PYTHON_DIRECTOY
+pip install LIBRARY_NAME
 
 Libraries
 

@@ -13,3 +13,16 @@ In the process of creating this repository I will explore such things like APIs,
 
 - Weather Application: Connecting the two previous projects to create and interactive App that resquests data from an API and shows it thruogh a Dash App
 
+---
+## Requirements
+
+This Repository works with Jupyter notebooks for their facility to show notes and Python code. Apart from that we'll need some additional libraries
+in order to run all the notebooks here found. 
+
+Libraries
+
+- Dash
+- requests
+- python.dotenv
+- Plotly
+

@@ -12,7 +12,7 @@ I hope you enjoy the journey!
 ## 📦 Contents
 
 - **🔗 Connecting to My First API**  
-  Folder: `/My_First_API`  
+  File: `/apis_withPython`  
   A Jupyter Notebook that walks through the process of connecting to well-known public APIs using Python’s `requests` library.
 
 - **📊 Dash Application**  
